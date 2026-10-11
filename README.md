@@ -50,7 +50,8 @@ Screenshots and image artifacts are saved under `.forma/artifacts/` in the activ
 - [GitHub repository](https://github.com/EgoisticCoder/Forma_MCP)
 - [npm package](https://www.npmjs.com/package/@forma-ai/forma-mcp)
 - [FORMA CLI](https://github.com/EgoisticCoder/Forma_CLI)
-- [Project website](https://github.com/EgoisticCoder/Forma)
+- [FORMA MCP website](https://forma-mcp-website.vercel.app/)
+- [FORMA project](https://github.com/EgoisticCoder/Forma)
 
 ## License
 

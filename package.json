@@ -7,7 +7,7 @@
   "bin": { "forma-mcp": "dist/src/index.js" },
   "files": ["dist", "README.md", "LICENSE"],
   "license": "MIT",
-  "homepage": "https://github.com/EgoisticCoder/Forma_MCP#readme",
+  "homepage": "https://forma-mcp-website.vercel.app/",
   "keywords": ["forma", "mcp", "model-context-protocol", "playwright", "browser-automation", "ui-ux", "website-audit", "accessibility", "lighthouse", "axe-core"],
   "publishConfig": { "access": "public" },
   "repository": { "type": "git", "url": "https://github.com/EgoisticCoder/Forma_MCP.git" },
